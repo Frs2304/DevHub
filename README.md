@@ -3,7 +3,8 @@
 DevHub is a Codepen clone built with React.js. It provides a web-based code editor where users can write HTML, CSS, and JavaScript code and see the live output instantly. 
 It aims to provide a simple and intuitive interface for testing and sharing code snippets.
 
-You can visit the app here: https://devhubide.netlify.app
+![1687697111863](https://github.com/Frs2304/DevHub/assets/104261490/36327bd9-81c0-40ed-b0b0-334e75b34ad3)
+
 
 ## Features
 
